@@ -1,1 +1,172 @@
-<mxfile type="github" version="12.6.4" host="www.draw.io" modified="2020-02-03T18:07:52.979Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18363" etag="3LHix6cs2cshNDaFr11X"><diagram id="vjavIsuCYT6N_qfqwrHb" name="Page-1">5Vtdc6M2FP01nmkfssM3+DFxkm1nsm2myWw2jzLItqaAWMCx3V/fK0AYSTh2MMTxJjMJ1sVcxDlHF90rZWROovXXFCWLbzTA4cjQ5ikJRub1yDB0+AVDsC6blmu7lWVTWgzd0koLu+iB/IerC7l1SQKcCc5ySsOcJKLRp3GM/VywoTSlK/FrMxqKPUvQHCuGBx+FqvWJBPmitHq2trX/gcl8we+sa9WZCPEvV4ZsgQK6apjMm5E5SSnNy0/ReoJDhh7HrrzudsfZumMpjvNDLjCNu8vnq+hJ++ld/0Mf8PX3ZHNReXlB4bJ64Js4xykjaBnPMY1HhhOC+6sp2Jw5+zRBYNRoHG7YU9IXzJ6NLuFplQ5x7zjN8VowZfmGI5zSZRxg1kkNvK8WJMcPCfLZ2RWICmyLPAqhpcPHGjdQHKYRzlPWC1SRPK9N7B6LBi9ORcJqy6HOidlI7TXHS8ATPlSQvgFeQ4H3CaOEoQq+HRSxpyv/qjhfphFlRCQE+xhgu7U6ArwHUpQl5cCZkTWj4WpGwnBCQ7g5u9wMEPZmPtizPKX/4sYZx/fwdHYEKzXkr9BiaP3TYiq0POQozTviC6dyEVIRqZjGWIK1MqGQzGNo+rgYdOYVuxGB4HNZnYhIELDbtA4LceB05aCFAk8aGDID1vEMWAoDfAAsdD4AuGVGgQ4I3eXDg/XnkhaBiC5TUsSqv/Bqa+aXPzJaDO0yeAF0lynm7qC/pUfxLmBu3voTKsFSlWBZohQsUQm6c7wS7BYl7AC/gTSOg0v2dt8i2AAdr0n+g4Hxxa5azxU07PP1utnYNEAr3mNppbJXAzoOhFlDF7RtFW1uSnGIcvLScod7SoqxwN2X/a2szaApv8vc8RdbnB3IriAAznGuutI9yZWncl4/eHcZOAPIIIYu/eBks8bzVhSsuVVC0RKlUOLxC0jBEfkzPK2bEExp8LuD6MAdUgdb6p+b5z6FDmT6zM46kGPLeBAheP0L4TyIkgesZXUkSnE0TOQeK0QJmQsczTJ5kROcOgOKpxk7fKNxBpOf3/TfdzI9aKIzm2HHb010Anc81Y6ZWh2S6CgDtIdEh1dRGuRUKIMxxlm+J+2Eo3HCzNPGXmC1EeIZU9Nx3jnz7GO2q6sFl3fC9j2Raos0b0ZKrZ2oYr2nOWHVlE9cFzkKY7UQwhHVHlOMsiJt/sTgckE7PZQ8dLXmIcbiCzhGJCZwmNIs2//CBISjTxmZHWsAetRCxCPDBaZ0lEYqGX8CdaiYhwUYdS5+H8kDAqEaduswudW0YspSnuFrF1ZVTxOmPexnYMbsHghSSwQ8Rl3UVfVlMk9RcKKgBTAaOyaQztSxhx4Vllyp6WMCqebjfIJ4X00QrcNm96cLViee1zsDrCvpanZ8VbwytNuic3vZeCLxxVe2Fmpok0VrHiBfcUczfFEtk2h/vxRvrTtKkxNx6vm4ndOpZ1s245QFAoK3oa6qB6jxsCv59TpJg3x57cSVq2+2fTz5asa9k4T20ogfoiwj/iFVc36mvWpel9bqWlqvJVYu871leT63+ui1HV2TYnTXIpwn+bFNwREQjZqPmzAHWUuHK3djab7rKslF6bHXwhGXrbD5IFAj0U3mowSzUHW9a0+CHKwmIUQr9o5KKYSBru+dN+1MEOOKvjsAdRVm2xYGW5PkNcQeBjVJfGO4efeSPM9rf524UTN9ZNywJYG4+oFxo++qsdG2A+BEquq+Xrxfic6hSnTPQ4mOLkUYd9xRiZKiLUOdGfWhsyH2Fwwcvc5ECq7tiVLoGpRc03jNUW9SGHSPwYcJOeNDI45zHjKzpBTK7Loeasmha5iFa2OILQzD7Wji6ywfXQaGLaco3VSgrOq1TJH7UMEA+xe4CvSmBmpFHKcC/TxUYEpj2B53lYEUVdqWEPqQwdG1mveVwZkEA1kGut6TDNrW+HuQgXmGObR9HlJQlmo7KkHOsCVJ7VcCNLf/zFN+ffs/UebN/w==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-02-03T18:52:22.382Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="is6BxofOFgfVF1PeXoyV" version="12.6.4" type="github">
+  <diagram id="vjavIsuCYT6N_qfqwrHb" name="Page-1">
+    <mxGraphModel dx="1310" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="32LAYBmW0q8DRoSeDVpy-1" value="Enter dungeon&lt;br&gt;Can only move south" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="120" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="32LAYBmW0q8DRoSeDVpy-2" value="Weapon &amp;amp;&lt;br&gt;Armor piece1/4" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;gradientColor=#FFE599;" parent="1" vertex="1">
+          <mxGeometry x="320" y="200" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="32LAYBmW0q8DRoSeDVpy-3" value="Start" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="340" y="100" width="80" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="32LAYBmW0q8DRoSeDVpy-4" value="&lt;h1&gt;&lt;font face=&quot;Courier New&quot;&gt;Text Adventure&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="160" y="24" width="440" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="32LAYBmW0q8DRoSeDVpy-5" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="32LAYBmW0q8DRoSeDVpy-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="379.5" y="220" as="sourcePoint"/>
+            <mxPoint x="380" y="180" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="32LAYBmW0q8DRoSeDVpy-6" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="32LAYBmW0q8DRoSeDVpy-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="260" as="sourcePoint"/>
+            <mxPoint x="70" y="340" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="32LAYBmW0q8DRoSeDVpy-7" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="32LAYBmW0q8DRoSeDVpy-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="340" as="sourcePoint"/>
+            <mxPoint x="390" y="320" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="32LAYBmW0q8DRoSeDVpy-8" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="260" as="sourcePoint"/>
+            <mxPoint x="480" y="260" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="32LAYBmW0q8DRoSeDVpy-9" value="Armor piece 3/4&lt;br&gt;&amp;nbsp;Monster Nest" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFE599;strokeColor=#d79b00;gradientColor=#D5E8D4;" parent="1" vertex="1">
+          <mxGeometry x="320" y="340" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="32LAYBmW0q8DRoSeDVpy-10" value="Monster nest&lt;br&gt;Armor piece 2/4" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#FFE599;" parent="1" vertex="1">
+          <mxGeometry x="160" y="200" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="32LAYBmW0q8DRoSeDVpy-11" value="Monster Nest" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="480" y="200" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="32LAYBmW0q8DRoSeDVpy-12" value="&lt;br&gt;Potion" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry y="200" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="32LAYBmW0q8DRoSeDVpy-13" value="Potion Treasure" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7EA6E0;gradientDirection=east;" parent="1" vertex="1">
+          <mxGeometry x="640" y="200" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="32LAYBmW0q8DRoSeDVpy-14" value="Monster nest- mini boss&lt;br&gt;&amp;nbsp;item" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=4;" parent="1" vertex="1">
+          <mxGeometry x="640" y="640" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="32LAYBmW0q8DRoSeDVpy-15" value="Trap room&lt;br&gt;Instant death" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#a20025;strokeColor=#6F0000;strokeWidth=4;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry y="50" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="32LAYBmW0q8DRoSeDVpy-16" value="Treasure-Weapon upgrade" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E1D5E7;strokeColor=#C3ABD0;gradientColor=#A680B8;gradientDirection=south;" parent="1" vertex="1">
+          <mxGeometry x="320" y="480" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="32LAYBmW0q8DRoSeDVpy-17" value="Armor Piece 4/4&lt;br&gt;&amp;nbsp;item" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFE599;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="320" y="620" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="32LAYBmW0q8DRoSeDVpy-18" value="Boss Fight&lt;br&gt;&amp;nbsp;Win-Gold Chest&lt;br&gt;&amp;nbsp;Lose-Start Over Loop" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#EA6B66;strokeColor=#b85450;gradientColor=#D5E8D4;strokeWidth=4;fontFamily=Garamond;" parent="1" vertex="1">
+          <mxGeometry x="255" y="760" width="280" height="280" as="geometry"/>
+        </mxCell>
+        <mxCell id="32LAYBmW0q8DRoSeDVpy-19" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="32LAYBmW0q8DRoSeDVpy-14" target="32LAYBmW0q8DRoSeDVpy-18" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="1080" as="sourcePoint"/>
+            <mxPoint x="530" y="880" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="700" y="900"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="32LAYBmW0q8DRoSeDVpy-22" value="End&lt;br&gt;Escaped Dungeon&lt;br&gt;&amp;nbsp;Close Program" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="320" y="1020" width="150" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="32LAYBmW0q8DRoSeDVpy-23" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="32LAYBmW0q8DRoSeDVpy-14" target="32LAYBmW0q8DRoSeDVpy-13" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="1150" as="sourcePoint"/>
+            <mxPoint x="710" y="520" as="targetPoint"/>
+            <Array as="points"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="32LAYBmW0q8DRoSeDVpy-24" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="32LAYBmW0q8DRoSeDVpy-17" target="32LAYBmW0q8DRoSeDVpy-16" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="379" y="610" as="sourcePoint"/>
+            <mxPoint x="425" y="550" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="32LAYBmW0q8DRoSeDVpy-25" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="32LAYBmW0q8DRoSeDVpy-17" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="758" as="sourcePoint"/>
+            <mxPoint x="380" y="732" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="32LAYBmW0q8DRoSeDVpy-26" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="32LAYBmW0q8DRoSeDVpy-16" target="32LAYBmW0q8DRoSeDVpy-9" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="460" as="sourcePoint"/>
+            <mxPoint x="390" y="410" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="32LAYBmW0q8DRoSeDVpy-27" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="32LAYBmW0q8DRoSeDVpy-12" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="250" as="sourcePoint"/>
+            <mxPoint x="120" y="200" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="32LAYBmW0q8DRoSeDVpy-28" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="32LAYBmW0q8DRoSeDVpy-11" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="310" as="sourcePoint"/>
+            <mxPoint x="640" y="260" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="32LAYBmW0q8DRoSeDVpy-29" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="32LAYBmW0q8DRoSeDVpy-12" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="310" as="sourcePoint"/>
+            <mxPoint x="160" y="260" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="32LAYBmW0q8DRoSeDVpy-33" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="32LAYBmW0q8DRoSeDVpy-15" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="200" as="sourcePoint"/>
+            <mxPoint x="110" y="150" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PLFHoKgfgkUlaFO8aC_f-1" value="Item: Potion, throwable,buff(power ring,amulet)" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=#fff2cc;strokeColor=#d6b656;rounded=0;fontFamily=Garamond;" vertex="1" parent="1">
+          <mxGeometry x="500" width="240" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="PLFHoKgfgkUlaFO8aC_f-2" value="Mob: Monster Nests, Contain 4-5 monsters" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Garamond;" vertex="1" parent="1">
+          <mxGeometry x="500" y="20" width="240" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="PLFHoKgfgkUlaFO8aC_f-3" value="Potions: Health Potion, Mana Potion(Only appears for Magic Users" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Garamond;" vertex="1" parent="1">
+          <mxGeometry x="500" y="38" width="240" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="PLFHoKgfgkUlaFO8aC_f-4" value="Armor: Grants more health(base health 100, goes up by 25 for each piece you acquire, Max health 200)" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Garamond;" vertex="1" parent="1">
+          <mxGeometry x="500" y="64" width="240" height="36" as="geometry"/>
+        </mxCell>
+        <mxCell id="PLFHoKgfgkUlaFO8aC_f-5" value="Weapon: Staff, Sword &amp;amp; Shield, Dual blades, 2 handed Sword" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Garamond;" vertex="1" parent="1">
+          <mxGeometry x="500" y="100" width="240" height="36" as="geometry"/>
+        </mxCell>
+        <mxCell id="PLFHoKgfgkUlaFO8aC_f-6" value="" style="endArrow=none;html=1;fontFamily=Garamond;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-20" y="415" as="sourcePoint"/>
+            <mxPoint x="-20" y="515" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PLFHoKgfgkUlaFO8aC_f-11" style="edgeStyle=orthogonalEdgeStyle;shape=arrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Garamond;fontSize=17;" edge="1" parent="1" source="PLFHoKgfgkUlaFO8aC_f-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="465" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PLFHoKgfgkUlaFO8aC_f-7" value="HALL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Garamond;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="60" y="450" width="60" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="PLFHoKgfgkUlaFO8aC_f-12" value="Weapon: Staff(Blunt), Lance(Pierce/Can kill boss faster than other weapons), Dual blades(Severing), 2 handed Sword(Slash)" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Garamond;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="522" width="270" height="58" as="geometry"/>
+        </mxCell>
+        <mxCell id="PLFHoKgfgkUlaFO8aC_f-13" value="Mobs: Monsters are either weak one hit imps(potion drop?) or&amp;nbsp; Strong multi-hit ogres (Armor drop?)" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Garamond;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="600" width="270" height="58" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
